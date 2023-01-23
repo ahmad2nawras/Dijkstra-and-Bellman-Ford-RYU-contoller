@@ -1,6 +1,6 @@
 '''
-DEVELOPER: AHMAD MAHMOD
-EMAIL: ahmad.nawras.mahmod@gmail.com
+DEVELOPER: Issam Sayyaf
+EMAIL: issamsayyaf97@gmail.com
 '''
 
 import time
